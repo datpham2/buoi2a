@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/buoi2a/static/css/main.dbc5dabe.css",
+    "main.js": "/buoi2a/static/js/main.97621348.js",
+    "static/media/logo.svg": "/buoi2a/static/media/logo.fd84a4c74c7e20160d0ccea5428f6f13.svg",
+    "index.html": "/buoi2a/index.html",
+    "main.dbc5dabe.css.map": "/buoi2a/static/css/main.dbc5dabe.css.map",
+    "main.97621348.js.map": "/buoi2a/static/js/main.97621348.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbc5dabe.css",
+    "static/js/main.97621348.js"
+  ]
+}
