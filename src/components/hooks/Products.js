@@ -9,15 +9,15 @@ export default function Products() {
         {id: 3, name: "Laptop Dell", price: 50_000},
         {id: 4, name: "Laptop Acer", price: 20_000}
     ]);
+    
   return (
     <div>
+        
         <Row>
-      {
-        list.map((item, index) => {
-            <Product key={index} pro={item}/>
-        })
-      }
-      </Row>
+            {list.map((product, index) => (
+                <Product key={index} product={product} />
+            ))}
+        </Row>
     </div>
   )
 }
